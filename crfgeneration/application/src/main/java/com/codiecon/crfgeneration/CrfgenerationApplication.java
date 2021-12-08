@@ -1,4 +1,4 @@
-package com.codiecon.crfgeneration.crfgeneration;
+package com.codiecon.crfgeneration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
